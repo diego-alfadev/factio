@@ -1,29 +1,17 @@
-# ⚡ ShipFree
+# 📝 Factio
 
-Hi there! 👋
+An invoice manager made simple!
 
-ShipFree is a free alternative to ShipFast, designed to simplify and optimize your shipping process. It’s built using modern web technologies like Next.js, Supabase, Stripe, LemonSqueezy, and Mailgun.
+This product is intended to respond to the needs of entrepeneurs and freelancers that need a reliable, fast, simple and economic wasy to manage their invoices and clients while attending the rules forced by AEAT (Agencia Estatal de Administración Tributaria) in Spain.
 
-## Features
 
-- SEO Optimisation
-- User authentication with Supabase
-- Stripe and LemonSqueezy integration
-- Email notifications via Mailgun
-- Modern UI built with Next.js and TailwindCSS
 
-## Docs
+## Thanks ♥
 
-For full documentation, visit: [ShipFree Docs](https://shipfree.idee8.agency/docs)
+This project could not be possible without the help of the community and some specific projects id like to thank:
 
-## Code of Conduct
+- Coolify
+- ShipFree
+- Supabase
 
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
-
-## Contributing
-
-For people who want to contribute, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-Cooked for you with ❤️ by [Idee8](https://idee8.agency)
+  
